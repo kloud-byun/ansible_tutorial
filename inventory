@@ -5,4 +5,7 @@ kloudbyun@192.168.56.10
 kloudbyun2@192.168.57.3
 
 [file_servers]
-kloudbyun3@192.168.58.3 
+kloudbyun3@192.168.58.3
+
+[workstations]
+kloudbyun4@192.168.59.3 
