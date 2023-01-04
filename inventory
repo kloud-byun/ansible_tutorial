@@ -1,5 +1,7 @@
 [web_servers]
 kloudbyun@192.168.56.10
+kloudbyun0@192.168.60.7
+
 
 [db_servers]
 kloudbyun2@192.168.57.3
